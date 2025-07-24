@@ -5,7 +5,6 @@ This project is a simple **Student CRUD (Create, Read, Update, Delete)** REST AP
 ---
 
 ## 🛠️ Technologies Used
-- Java 17+
 - Spring Boot
 - Spring Web
 - Spring Data JPA
@@ -26,6 +25,9 @@ src/
      └── resources/
          └── application.properties
 ```
+
+<img width="450" height="620" alt="image" src="https://github.com/user-attachments/assets/0a705bce-9f11-463e-9e22-d2dee5dac58a" />
+
 
 ## ⚙️ API Endpoints
 
