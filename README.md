@@ -60,11 +60,3 @@ src/
 <img width="600" src="https://github.com/user-attachments/assets/fe0a0136-d937-433f-b45c-35ed6b9e3359" />
 
 ---
-
-## 🗃️ H2 Database Console
-- URL: `http://localhost:8080/h2-console`
-- JDBC URL: `jdbc:h2:mem:testdb`
-- Username: `sa`
-- Password: *(leave blank)*
-
----
