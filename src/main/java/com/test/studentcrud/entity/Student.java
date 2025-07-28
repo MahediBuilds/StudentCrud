@@ -24,7 +24,6 @@ public class Student {
     @NotBlank(message = "Course is mandatory")
     private String course;
 
-
     public Integer getId() {
         return id;
     }
