@@ -1,17 +1,4 @@
-# 🧑‍🎓 Student CRUD REST API with Spring Boot
 
-This project is a simple **Student CRUD (Create, Read, Update, Delete)** REST API built using **Spring Boot**, **Spring Data JPA**, and **H2 Database**. It demonstrates basic CRUD operations using RESTful endpoints and can be tested using **Postman**.
-
----
-
-## 🛠️ Technologies Used
-- Spring Boot
-- Spring Web
-- Spring Data JPA
-- H2 In-Memory Database
-- Postman (for testing)
-
----
 
 ## 📂 Project Structure
 ```
